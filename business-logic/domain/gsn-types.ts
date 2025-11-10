@@ -1,0 +1,1 @@
+// Types des éléments GSN
